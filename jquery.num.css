@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+.box{width: 108px; height:64px;}
+.box input{width: 60px;height: 60px;float: left; vertical-align:top;border:1px solid #ccc;line-height: 59px; text-align: center;}
+.box ul{float: left;}
+.box ul li{width: 28px;height: 28px ;border:1px solid #333;text-align: center;line-height: 28px; -webkit-user-select:none;}
+.box ul li.on{cursor: pointer;}
+.box ul li.off{cursor:not-allowed;color:#ccc;background-color: #fff;}
