@@ -6,3 +6,6 @@
 .box ul li{width: 28px;height: 28px ;border:1px solid #333;text-align: center;line-height: 28px; -webkit-user-select:none;}
 .box ul li.on{cursor: pointer;}
 .box ul li.off{cursor:not-allowed;color:#ccc;background-color: #fff;}
+
+.bbc{
+    background-color: #00f;}
